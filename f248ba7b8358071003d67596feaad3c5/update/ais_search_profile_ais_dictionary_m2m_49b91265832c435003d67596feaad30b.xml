@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_1112050_crm_puls_crm_pulse_search_profile_default_spell_check_dictionary">45b91265832c435003d67596feaad305</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="crm-pulse Search Profile">e7a91e25ea2c4350e73eed0bf8f3cac1</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-29 12:46:07</sys_created_on>
+        <sys_id>49b91265832c435003d67596feaad30b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1112050_crm_puls_crm_pulse_search_profile_default_spell_check_dictionary.crm-pulse Search Profile</sys_name>
+        <sys_package display_value="Crm Pulse Cu" source="x_1112050_crm_puls">f248ba7b8358071003d67596feaad3c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crm Pulse Cu">f248ba7b8358071003d67596feaad3c5</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_49b91265832c435003d67596feaad30b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-29 12:46:07</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>A default view for Crm Pulse generated</description>
+        <name>view</name>
+        <page display_value="Crm Pulse">eba91e25db2c4350054a1b48d14143c1</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-29 12:46:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>2ba91e251d2c4350aeb4fce2776222ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="Crm Pulse Cu" source="x_1112050_crm_puls">f248ba7b8358071003d67596feaad3c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crm Pulse Cu">f248ba7b8358071003d67596feaad3c5</sys_scope>
+        <sys_update_name>sys_ux_page_property_2ba91e251d2c4350aeb4fce2776222ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-29 12:46:03</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1112050_crm_puls.eba91e25db2c4350054a1b48d14143c1.root.view</unique_name>
+        <value>workspace-crm-pulse-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=2ba91e251d2c4350aeb4fce2776222ae"/>
+</record_update>
